@@ -1,35 +1,50 @@
-# Tutor Marketplace — Frontend (Step 1: Setup + Auth)
+# Tutor Marketplace — Frontend
 
-## Setup
+The React app for Tutor Marketplace — connecting students who need help with tutors who can teach it.
 
-1. Install dependencies:
-   ```
-   npm install
-   ```
+**Live app:** https://tutor-marketplace-frontend.vercel.app
+**Backend repo:** https://github.com/Buravetran/tutor-marketplace-backend
 
-2. Copy the env file (the default already points at the live backend, so you can leave it as is):
-   ```
-   copy .env.example .env
-   ```
+<!--
+Add screenshots here once you've taken them. In GitHub, drag an image directly into
+the README editor and it uploads and links itself automatically. Good ones to add:
+- The "Find a tutor" browse/search page
+- A tutor's profile with reviews
+- The "My bookings" page
+-->
 
-3. Start the dev server:
-   ```
-   npm run dev
-   ```
+## Features
 
-4. Open the URL it prints (usually `http://localhost:5173`).
+- Sign up and log in as a learner or tutor, with the session persisting on refresh
+- Browse and search tutors by subject, sorted by rating
+- View a tutor's profile, subjects, price/availability, and reviews
+- Request a booking as a learner
+- Accept, decline, or complete bookings as a tutor (or complete as a learner)
+- Leave a review after a completed session
+- Tutors can create and edit their own profile
 
-## What's working
+## Tech Stack
 
-- Sign up as a learner or tutor
-- Log in
-- Session persists on refresh (stored in localStorage)
-- Top nav shows different links depending on whether you're logged in, and your role
+- **React** with Vite
+- **React Router** for navigation
+- **Axios** for API calls
+- **Hosting:** Vercel
 
-## What's next
+## Running Locally
 
-- Browse/search tutors page
-- Tutor profile view + booking request
-- My bookings page (accept/decline/complete)
-- Tutor profile edit page
-- Reviews
+```bash
+npm install
+cp .env.example .env   # points at the live backend by default
+npm run dev
+```
+
+Open the printed local URL (usually `http://localhost:5173`).
+
+## What's Next
+
+- Curated learning resources per subject
+- In-app messaging between learner and tutor
+
+---
+
+Built by [Biruk Girma (Bura)](https://github.com/Buravetran)
