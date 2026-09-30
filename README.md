@@ -5,13 +5,12 @@ The React app for Tutor Marketplace — connecting students who need help with t
 **Live app:** https://tutor-marketplace-frontend.vercel.app
 **Backend repo:** https://github.com/Buravetran/tutor-marketplace-backend
 
-<!--
-Add screenshots here once you've taken them. In GitHub, drag an image directly into
-the README editor and it uploads and links itself automatically. Good ones to add:
-- The "Find a tutor" browse/search page
-- A tutor's profile with reviews
-- The "My bookings" page
--->![alt text](Screenshot_30-9-2026_16213_tutor-marketplace-frontend.vercel.app.jpeg) ![alt text](Screenshot_30-9-2026_16623_tutor-marketplace-frontend.vercel.app.jpeg) ![alt text](Screenshot_30-9-2026_16523_tutor-marketplace-frontend.vercel.app.jpeg) ![alt text](Screenshot_30-9-2026_16317_tutor-marketplace-frontend.vercel.app.jpeg) ![alt text](Screenshot_30-9-2026_16224_tutor-marketplace-frontend.vercel.app.jpeg)
+
+<img width="1685" height="775" alt="Screenshot_30-9-2026_16224_tutor-marketplace-frontend vercel app" src="https://github.com/user-attachments/assets/fe82f2c0-8972-408f-ba95-bf536f804383" />
+<img width="1685" height="1058" alt="Screenshot_30-9-2026_16317_tutor-marketplace-frontend vercel app" src="https://github.com/user-attachments/assets/1ce3f88d-52e9-4f16-a334-3ada9abedd7f" />
+<img width="1685" height="796" alt="Screenshot_30-9-2026_16523_tutor-marketplace-frontend vercel app" src="https://github.com/user-attachments/assets/c119d8a3-589c-417f-9aa5-1e0e9bf28df6" />
+<img width="1685" height="775" alt="Screenshot_30-9-2026_16623_tutor-marketplace-frontend vercel app" src="https://github.com/user-attachments/assets/0a4955d0-ca11-4d51-8fe5-3047f66d0179" />
+
 
 ## Features
 
